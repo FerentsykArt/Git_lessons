@@ -1,5 +1,2 @@
 test text
 new text, try to imitate working process.
-public String getFirstName(){
-        return firstName;
-    }
